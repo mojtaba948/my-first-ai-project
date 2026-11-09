@@ -1,40 +1,59 @@
-My First AI Project: Cat vs Dog Classification
+Cat vs Dog Classification Using Artificial Intelligence
 
-Introduction
+Summary
 
-This project is about Artificial Intelligence and Neural Networks.
+This project explores how Artificial Intelligence can classify animals as cats or dogs using machine learning and neural networks.
 
-The goal is to understand how an AI system can distinguish between cats and dogs using machine learning.
+Background
 
-Project Objectives
+Artificial Intelligence is used in many areas of everyday life. One interesting application is recognizing animals.
 
-- Learn the basics of Artificial Intelligence.
-- Understand how neural networks work.
-- Explore input data and hidden layers.
-- Learn how activation functions help neural networks make predictions.
-- Understand binary classification.
+The goal of this project is to understand how a computer can learn to distinguish between cats and dogs.
 
-How Does It Work?
+How is it used?
 
-An AI model can learn from images of cats and dogs.
+This project is an educational example of binary classification.
 
-The neural network processes image data through different layers and produces an output prediction:
+A future version could be used in:
 
-- Cat
-- Dog
+- Animal recognition applications
+- Pet identification systems
+- Educational AI tools
 
-A sigmoid activation function can be used in the output layer for binary classification.
+Data Sources and AI Methods
 
-Technologies
+The project uses a small illustrative dataset containing:
 
-- Python
-- Artificial Intelligence
-- Machine Learning
-- Neural Networks
+- Height
+- Weight
+- Length
 
-Project Status
+The model uses:
 
-Educational project in development.
+- Artificial Neural Networks
+- Linear combinations
+- Weights and bias
+- Sigmoid activation function
+- Binary classification
+
+Challenges
+
+One challenge is that height, weight and length alone may not accurately distinguish cats from dogs.
+
+A larger and more representative dataset would be needed for reliable predictions.
+
+What Next?
+
+Future improvements could include:
+
+- Using real animal datasets
+- Training a more accurate machine learning model
+- Recognizing cats and dogs from images
+- Improving prediction accuracy
+
+Acknowledgments
+
+This project was created as part of the Building AI learning journey by Elements of AI.
 
 Author
 
