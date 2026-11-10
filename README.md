@@ -1,4 +1,4 @@
-My First AI Project: Cat vs Dog Classification
+# My First AI Project: Cat vs Dog Classification
 
 Final project for the Building AI course
 
